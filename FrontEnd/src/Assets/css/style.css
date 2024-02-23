@@ -1,0 +1,49 @@
+.errorMessage {
+    color: red;
+
+    margin-bottom: 10px;
+    margin-left: 30px;
+
+    text-align: center;
+
+    width: 42%;
+    display: block;
+    font-size: 0.9rem;
+
+}
+
+
+
+.Toastify__toast--error,.Toastify__toast--success{
+
+    position: absolute;
+    top:0px;
+    right: 20px;
+ 
+  
+
+}  
+
+.topbar{
+box-shadow: 0px 0px 8px 10px rgba(0, 0, 0, 0.1);
+    padding: 15px 15px;
+
+    
+}
+.d-flex{
+    display: flex;
+    align-items: center;
+   justify-content: space-between;
+}
+
+.sidebar{
+    padding: 20px;
+    width: 20%;
+    height: 100vh;
+    border-right: 1px solid black;
+}
+
+.content-flex{
+    display: flex;
+
+}
